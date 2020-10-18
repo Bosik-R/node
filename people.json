@@ -1,0 +1,24 @@
+{
+  "people":[
+    {"gender":"female","firstName":"Hanna","lastName":"Lis","age":25},
+    {"gender":"female","firstName":"Halina","lastName":"Kowalski","age":28},
+    {"gender":"female","firstName":"Magda","lastName":"Kot","age":55},
+    {"gender":"male","firstName":"Tomasz","lastName":"Kowalski","age":60},
+    {"gender":"female","firstName":"Ania","lastName":"Kowalski","age":20},
+    {"gender":"female","firstName":"Zuzanna","lastName":"Pietrucha","age":57},
+    {"gender":"male","firstName":"Adam","lastName":"Kowalski","age":25},
+    {"gender":"female","firstName":"Hanna","lastName":"Kot","age":53},
+    {"gender":"female","firstName":"Ania","lastName":"Lis","age":52},
+    {"gender":"male","firstName":"Piotr","lastName":"Kot","age":38},
+    {"gender":"male","firstName":"Michał","lastName":"Lis","age":35},
+    {"gender":"female","firstName":"Ania","lastName":"Kot","age":69},
+    {"gender":"male","firstName":"Piotr","lastName":"Kot","age":40},
+    {"gender":"female","firstName":"Halina","lastName":"Pietrucha","age":45},
+    {"gender":"female","firstName":"Halina","lastName":"Lis","age":73},
+    {"gender":"male","firstName":"Piotr","lastName":"Kaczor","age":47},
+    {"gender":"male","firstName":"Krzysiek","lastName":"Kaczor","age":34},
+    {"gender":"male","firstName":"Tomasz","lastName":"Kaczor","age":18},
+    {"gender":"female","firstName":"Magda","lastName":"Kot","age":18},
+    {"gender":"male","firstName":"Krzysiek","lastName":"Pietrucha","age":71}
+  ]
+}
